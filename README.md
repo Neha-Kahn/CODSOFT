@@ -1,4 +1,4 @@
-# CODSOFT Python Developer Internship Tasks 
+# CODSOFT Python Programming Internship Tasks 
 
 Task 1 
 # To Do List
