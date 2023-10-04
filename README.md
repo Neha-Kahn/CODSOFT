@@ -1,7 +1,7 @@
 # CODSOFT Python Programming Internship Tasks 
 
 Task 1 
-# To Do List
+# ToDo List
 A GUI-based to-do list manager that allows users to add, edit, and delete items from a to-do list. The program utilizes file storage, ensuring that the list is saved even if the program is terminated. When the user re-runs the program, the previous to-do list is retrieved and displayed for continued use.
 
 Task 2
